@@ -410,7 +410,7 @@ export default function App() {
                 </div>
                 <div>
                   <h3>Dawson College</h3>
-                  <p>DEC</p>
+                  <p>DEC, Ghallager Award for best student in CEGEP</p>
                 </div>
               </article>
 
@@ -437,7 +437,7 @@ export default function App() {
                 <h3>Autodesk</h3>
                 <p>
                   Two bonuses, a stock grant, and team recognition connected to work on a
-                  critical rollover issue.
+                  <a href="https://www.fxguide.com/fxfeatured/stoned_and_wired_behind_discreets_y2k_4_bug/">critical rollover issue</a>.
                 </p>
               </article>
             </div>
