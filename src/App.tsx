@@ -417,7 +417,7 @@ export default function App() {
               <article className="credential-card">
                 <p className="credential-card__label">Profile skills</p>
                 <ul className="skill-list">
-                  <li>Base44</li>
+                  <li>AI-built Websites</li>
                   <li>Figma Weave</li>
                   <li>Context Engineering</li>
                 </ul>
