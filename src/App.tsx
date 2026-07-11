@@ -17,7 +17,7 @@ const institutionalJourney = [
     organization: "Autodesk",
     location: "Montreal, Quebec",
     description:
-      "Led writing for Flame and Smoke systems and managed documentation for Lustre and Incinerator color-grading products.",
+      "Senior writer for Flame and Smoke systems and managed documentation for Lustre and Incinerator color-grading products.",
   },
   {
     id: "genetec",
