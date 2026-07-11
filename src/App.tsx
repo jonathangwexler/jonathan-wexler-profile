@@ -436,8 +436,7 @@ export default function App() {
                 <p className="credential-card__label">Recognition</p>
                 <h3>Autodesk</h3>
                 <p>
-                  Two bonuses, a stock grant, and team recognition connected to work on a
-                  <a href="https://www.fxguide.com/fxfeatured/stoned_and_wired_behind_discreets_y2k_4_bug/">critical rollover issue</a>.
+                  Two bonuses, a stock grant, and team recognition connected to work on a <a href="https://www.fxguide.com/fxfeatured/stoned_and_wired_behind_discreets_y2k_4_bug/">critical rollover issue</a>.
                 </p>
               </article>
             </div>
