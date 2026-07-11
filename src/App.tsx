@@ -118,7 +118,7 @@ const independentPractice = [
     role: "Teacher",
     organization: "Clascity",
     description:
-      "Taught customized introductions to AI alongside Linux, WordPress, technical writing, and custom-computer building.",
+      "Taught AI to newbies as well as Linux, WordPress, technical writing, and custom-computer building.",
   },
   {
     dates: "September 2022 - January 2026",
