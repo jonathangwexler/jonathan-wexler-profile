@@ -406,7 +406,7 @@ export default function App() {
                 <p className="credential-card__label">Education</p>
                 <div>
                   <h3>Concordia University</h3>
-                  <p>Bachelor&apos;s degree, Communication and Media Studies, and Religion</p>
+                  <p>Bachelor&apos;s degree with honors, Communication and Media Studies, and Religion</p>
                 </div>
                 <div>
                   <h3>Dawson College</h3>
