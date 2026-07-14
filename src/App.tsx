@@ -17,7 +17,7 @@ const institutionalJourney = [
     organization: "Autodesk",
     location: "Montreal, Quebec",
     description:
-      "Senior writer for Flame and Smoke systems and managed documentation for Lustre and Incinerator color-grading products.",
+      "Senior writer for Flame and Smoke advanced systems and managed documentation for Lustre and Incinerator color-grading products.",
   },
   {
     id: "genetec",
@@ -27,7 +27,7 @@ const institutionalJourney = [
     organization: "Genetec",
     location: "Montreal, Quebec",
     description:
-      "Led the Omnicast and AutoVu documentation effort, producing up to 1,000 pages of illustrated material while improving the FrameMaker and online-help workflow.",
+      "Led the Omnicast and AutoVu surveillance software documentation effort, producing up to 1,000 pages of illustrated material while improving the FrameMaker and online-help workflow.",
   },
   {
     id: "canadavisa",
@@ -47,7 +47,7 @@ const institutionalJourney = [
     organization: "Moment Factory",
     location: "Montreal, Quebec",
     description:
-      "Managed X-Agora documentation and software-string translation, creating the localization pipeline and coordinating outside specialists.",
+      "Managed the X-Agora live event multimedia software documentation and software-string translation, creating the localization pipeline and coordinating outside specialists.",
   },
   {
     id: "liberal-party",
@@ -57,7 +57,7 @@ const institutionalJourney = [
     organization: "Liberal Party of Canada",
     location: "Montreal, Quebec",
     description:
-      "Managed the web presence for the early stages of a Montreal parliamentary campaign.",
+      "Managed the web presence for the early stages of a Montreal-based federal parliamentary campaign.",
   },
   {
     id: "ni2",
@@ -87,7 +87,7 @@ const institutionalJourney = [
     organization: "Green Party of Canada",
     location: "Montreal, Quebec",
     description:
-      "Managed a Montreal campaign during the 2021 federal election.",
+      "Managed a Montreal-based campaign during the 2021 federal election.",
   },
 ];
 
@@ -436,7 +436,7 @@ export default function App() {
                 <p className="credential-card__label">Recognition</p>
                 <h3>Autodesk</h3>
                 <p>
-                  Two bonuses, a stock grant, and team recognition connected to work on a <a href="https://www.fxguide.com/fxfeatured/stoned_and_wired_behind_discreets_y2k_4_bug/">critical rollover issue</a>.
+                  Two bonuses, a stock grant, and team recognition connected to work on a <a href="https://www.fxguide.com/fxfeatured/stoned_and_wired_behind_discreets_y2k_4_bug/">critical date rollover issue</a>.
                 </p>
               </article>
             </div>
@@ -452,7 +452,7 @@ export default function App() {
             <h2 id="now-heading">Technology is the setting. Meaning is the subject.</h2>
             <p>
               Retired from full-time technical work, Jonathan now focuses on independent study
-              in religion, ethics, and the meaning of technology - especially the choices that
+              in religion, ethics, and the meaning of technology — especially the choices that
               intelligent tools ask individuals and societies to make.
             </p>
           </div>
@@ -492,7 +492,7 @@ export default function App() {
           <span className="brand__mark" aria-hidden="true">
             JW
           </span>
-          <span className="brand__text">Jonathan Wexler</span>
+          <span className="brand__text">jonathan.g.wexler@proton.me</span>
         </a>
         <p>Writer · Technologist · Observer</p>
         <a href="#top">Back to top ↑</a>
