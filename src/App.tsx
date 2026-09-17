@@ -469,6 +469,21 @@ export default function App() {
               existing website.
             </p>
             <div className="contact-links">
+          
+              <a
+                href="https://blog.jonathanwexler.com"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Blog <span aria-hidden="true">↗</span>
+              </a>
+              
+              
+              
+              
+              
+              
+              
               <a
                 href="https://www.linkedin.com/in/jonathan-wexler-technical-writer"
                 target="_blank"
