@@ -471,15 +471,6 @@ export default function App() {
             <div className="contact-links">
 
 
-              <!-- 
-              <a
-                href="https://blog.jonathanwexler.com"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Blog <span aria-hidden="true">↗</span>
-              </a>
-              -->
               
               
               
