@@ -209,7 +209,7 @@ export default function App() {
 
             <div className="intro__lower">
               <p className="headline">
-                Retired Writer &<br /> Technologist
+                Writer &<br /> Technologist
               </p>
               <div>
                 <p className="intro__copy">
@@ -285,7 +285,7 @@ export default function App() {
           <div className="profile__body">
             <h2 id="profile-heading">Ideas at the edge of systems and society.</h2>
             <p className="profile__lead">
-              Jonathan Wexler is a retired writer and technologist whose career moved between
+              Jonathan Wexler is a writer and technologist whose career moved between
               software, media, education, civic work, and independent consulting.
             </p>
             <div className="profile__copy">
@@ -451,7 +451,7 @@ export default function App() {
             <p className="eyebrow">The next chapter</p>
             <h2 id="now-heading">Technology is the setting. Meaning is the subject.</h2>
             <p>
-              Retired from full-time technical work, Jonathan now focuses on independent study
+              Jonathan now focuses on independent study
               in religion, ethics, and the meaning of technology — especially the choices that
               intelligent tools ask individuals and societies to make.
             </p>
